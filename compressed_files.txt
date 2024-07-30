@@ -1,0 +1,4 @@
+vendor/etc/camera/st_license.lic.xz
+modem.img.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+boot.img.xz
